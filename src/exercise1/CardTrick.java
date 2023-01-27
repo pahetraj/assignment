@@ -8,8 +8,8 @@ import java.util.Scanner;
  * It then searches the array of cards for the match to the user's card. 
  * To be used as starting code in Exercise
  *
- * @author dancye
- * @author Paul Bonenfant Jan 25, 2022 
+ * @author HET 
+ * @author HET PATEL Jan 25, 2023
  */
 public class CardTrick {
     
@@ -79,7 +79,7 @@ public class CardTrick {
         System.out.println("-- Reading/Watching TV");
         System.out.println("-- Riding my motorcycle");
 
-        System.out.println();
+        System.out.println("het patel");
         
 }
 
